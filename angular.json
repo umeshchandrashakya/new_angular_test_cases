@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angulartestcases": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angulartestcases"
+    }
+  },
+  "defaultProject": "angulartestcases",
+  "cli": {
+    "analytics": "d5ae1856-4400-4884-a850-c6dad567db4c"
+  }
 }
